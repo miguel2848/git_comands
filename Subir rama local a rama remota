@@ -63,3 +63,11 @@
 	
 	*************************************
 	
+	git reset eliminar cambios
+	gir reset codigo del comiit
+	git checkout -- nombrearchivo o poner  . para todos
+	git reset --hard  lo elimina commit y del stage
+	
+	
+	
+	
