@@ -62,11 +62,27 @@
 	git checkout ramanueva
 	
 	*************************************
-	
+	Es destructivo elimina commits para locales
 	git reset eliminar cambios
 	gir reset codigo del comiit
 	git checkout -- nombrearchivo o poner  . para todos
 	git reset --hard  lo elimina commit y del stage
+	
+	git revert local y remoto
+	 git revert punteroHash   
+	 git revert HEAD
+	 
+	para no hacer un commit 
+	 git revert --no-commit puntero
+	&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+	
+	cambiar nombre rama
+	
+	git branch -m nombreactual nombrenuevo
+	
+	eliminar rama 
+	
+	git branch -d
 	
 	
 	
